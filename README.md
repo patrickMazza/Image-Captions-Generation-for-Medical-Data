@@ -1,1 +1,1 @@
-#Image Captions Generation for Medical Data
+Image Captions Generation for Medical Data
