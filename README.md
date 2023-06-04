@@ -1,1 +1,1 @@
-# med_images_proj
+#Image Captions Generation for Medical Data
