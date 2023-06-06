@@ -6,3 +6,11 @@ and Contrastive Language-Image Pre-training (CLIP), using different datasets - M
 IU-Chest X-ray, and SIIM-ACR Pneumothorax. Our findings show that each method is
 promising with the Show, Attend, and Tell model having a BLEU score of 0.5957 on the
 test dataset.
+
+This includes sections in
+- Data Exploration
+- Preliminary Experiments
+- Show-Attend-Tell Method
+- Cleaning Data
+- Image Processing
+
