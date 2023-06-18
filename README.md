@@ -11,6 +11,7 @@ This includes sections in
 - Data Exploration
 - Preliminary Experiments
 - Show-Attend-Tell Method
+- OpenAI CLIP Method
 - Cleaning Data
 - Image Processing
 
